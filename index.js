@@ -2,7 +2,7 @@ import chalk from "chalk";
 
 const colleagues = [
     chalk.redBright('Romi'),
-    chalk.bgGray('Elaine'),
+    chalk.bgBlack('Elaine'),
     chalk.blueBright('Patrick'),
     chalk.bgMagentaBright('Anne')
 ];
